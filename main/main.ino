@@ -5,8 +5,8 @@
 #define GAS_D 13
 #define GAS_A 12
 
-const char* ssid = "SUELEN2.g";
-const char* password = "988491682";
+const char* ssid = "#NOME_DA_REDE#";
+const char* password = "#SENHA_DA_REDE#";
 const char* mqtt_server = "broker.hivemq.com";
 
 WiFiClient espClient;
